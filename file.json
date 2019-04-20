@@ -16,11 +16,6 @@
       "name": "easing.scss",
       "folder": "scss",
       "type": "style"
-    },
-    {
-      "name": "test.scss",
-      "folder": "scss",
-      "type": "style"
     }
   ]
 }
